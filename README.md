@@ -2,3 +2,5 @@
 Este é meu primeiro repositório no Git 
 
 fiz uma alteração no repositorio remoto.
+
+fiz uma alteração no repositorio local.
